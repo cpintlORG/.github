@@ -1,0 +1,405 @@
+# cpintlORG Maintainer-Controlled Materials License (MCML)
+
+**Version 1.0**
+
+**SPDX-License-Identifier:** `LicenseRef-cpintlORG-1.0`
+
+**Copyright © 2026 healthbgd / cpintlORG. All rights reserved.**
+
+**Maintainer:** healthbgd  
+**Organization:** cpintlORG — unofficial, independently maintained GitHub organization  
+**Effective date:** 15 November 2026
+
+---
+
+## 1. Purpose and organizational status
+
+1.1 The cpintlORG GitHub organization ("cpintlORG") is an independently
+established, unofficial GitHub organization maintained and administered by
+healthbgd.
+
+1.2 cpintlORG is not the official GitHub organization, digital platform,
+subsidiary, representative, agent, or authorized organizational entity of
+Community Partners International (CPI), CPINTL, or any of their affiliated
+entities.
+
+1.3 The organization and its repositories are independently managed resources.
+Their existence, operation, publication, and maintenance do not imply
+endorsement, authorization, sponsorship, ownership, or institutional approval by
+CPI or any related entity.
+
+1.4 This License establishes the conditions under which materials controlled by
+the Maintainer may be accessed, used, reproduced, modified, distributed,
+adapted, or otherwise exploited.
+
+## 2. Definitions
+
+**2.1 Maintainer**
+
+"Maintainer" means healthbgd, the independent administrator and
+maintainer of cpintlORG, acting only within the scope of rights that he owns or
+is legally authorized to administer.
+
+**2.2 Organization**
+
+"Organization" means the GitHub organization identified as cpintlORG, including
+its repositories, projects, documentation, digital resources, and associated
+organizational infrastructure.
+
+**2.3 Covered Materials**
+
+"Covered Materials" means original materials owned or legally controlled by the
+Maintainer and published in a cpintlORG repository that identifies this License
+as its license. The `cpintlORG/branding-kit` repository is covered by this
+License. Covered Materials may include:
+
+- original source code and software;
+- original documentation and technical writing;
+- repository architecture and configuration;
+- original scripts and automation;
+- original templates and frameworks;
+- original design systems and independently created visual resources;
+- original metadata, schemas, manifests, and catalogs; and
+- other original materials expressly designated under this License.
+
+Covered Materials exclude CPI Materials and Third-Party Materials.
+
+**2.4 CPI Materials**
+
+"CPI Materials" means the names, logos, taglines, trademarks, service marks,
+trade dress, photographs, source PDFs, page previews, and any other material
+owned or controlled by Community Partners International (CPI), CPINTL, or any
+CPI entity. CPI Materials are excluded from the license granted under this
+License.
+
+**2.5 Third-Party Materials**
+
+"Third-Party Materials" means materials whose intellectual property rights are
+owned, administered, or licensed by another individual, organization, company,
+institution, or rights holder. These materials are not automatically covered by
+this License.
+
+**2.6 Written Approval**
+
+"Written Approval" means explicit authorization issued by the Maintainer, or by
+another verified rights holder for material that holder controls, through a
+verifiable written communication, including an email or an appropriately
+documented permission agreement.
+
+**2.7 Eligible Domain**
+
+"Eligible Domain" means an email domain name that contains the contiguous
+characters `cpi` or `cpintl`, case-insensitively. Examples include `cpintl.org`,
+`cpi-ypsa.org`, and their subdomains. The Maintainer may recognize additional
+domains in writing.
+
+**2.8 User**
+
+"User" means any individual, organization, institution, company, public body, or
+other legal or natural person accessing or seeking to use Covered Materials.
+
+## 3. Ownership and rights reservation
+
+3.1 All rights, title, and interests in Covered Materials remain with their
+respective lawful rights holders.
+
+3.2 Except for permissions expressly granted in writing, all rights are
+reserved.
+
+3.3 Nothing in this License transfers copyright ownership, intellectual property
+ownership, trademark ownership, or other proprietary rights to a User.
+
+3.4 The Maintainer's administrative or maintenance role does not establish
+ownership of materials belonging to CPI, CPINTL, third parties, contributors, or
+other rights holders.
+
+## 4. Prior written approval requirement
+
+4.1 No general permission is granted to use Covered Materials. This is not an
+open-source license, and no rights are granted to the public at large.
+
+4.2 Unless a separate written license expressly states otherwise, Users must
+obtain prior Written Approval from the Maintainer before:
+
+1. reproducing or republishing Covered Materials;
+2. copying or redistributing Covered Materials outside the permissions provided
+   by the GitHub platform;
+3. modifying, adapting, translating, or creating derivative works;
+4. incorporating Covered Materials into another project, product, publication,
+   service, or repository;
+5. using Covered Materials for commercial or institutional purposes;
+6. incorporating Covered Materials into artificial intelligence systems,
+   datasets, training materials, or automated content-generation systems;
+7. removing, modifying, or concealing attribution, ownership, or licensing
+   notices;
+8. presenting Covered Materials as officially authorized, endorsed, or
+   published by cpintlORG, the Maintainer, CPI, or another rights holder; or
+9. using Covered Materials in a manner that suggests an institutional
+   relationship or endorsement that does not exist.
+
+4.3 Written Approval must specify the permitted materials, purpose, scope,
+duration, territory where relevant, and any applicable conditions.
+
+4.4 Silence, access, repository visibility, acknowledgment, a GitHub star, a
+fork, a pull request merge, payment, or failure to object does not constitute
+Written Approval.
+
+4.5 Written Approval is personal to the approved User, non-transferable,
+revocable, and limited to the stated scope. It does not extend to affiliates,
+contractors, or downstream users unless the approval expressly says so.
+
+4.6 Viewing the Organization or its repositories on GitHub is permitted under
+GitHub's Terms of Service. Viewing does not grant any right to copy, modify,
+distribute, or otherwise use Covered Materials.
+
+## 5. Eligibility and no automatic permission
+
+5.1 The Written Approval requirement applies to every User.
+
+5.2 Written Approval is ordinarily limited to CPI-related work carried out by
+individuals whose primary email address is on an Eligible Domain, or by
+organizations that the Maintainer has approved in writing.
+
+5.3 Possession of an email address associated with CPI, CPINTL, YPSA, or another
+related institution does not by itself grant permission to use Covered
+Materials. An institutional email address, organizational affiliation, or
+employment relationship does not establish ownership of Covered Materials or
+authority to grant permission over them.
+
+5.4 The Maintainer may grant a Written Approval to a User outside an Eligible
+Domain as a written exception.
+
+5.5 The Maintainer applies the same approval criteria to every request and does
+not grant permission based on seniority, employment, institutional affiliation,
+or professional position alone.
+
+## 6. License granted by Written Approval
+
+6.1 When the Maintainer issues Written Approval, it operates as a limited,
+non-exclusive, non-transferable, revocable, royalty-free license to use the
+identified Covered Materials for the purpose, scope, duration, territory, and
+conditions stated in that approval.
+
+6.2 No rights are granted except those expressly stated in this License and in
+the Written Approval. No implied license arises from access, discussion,
+correspondence, or the conduct of the parties.
+
+6.3 Written Approval from the Maintainer is not CPI approval and does not
+replace any permission that CPI requires for its names, logos, taglines,
+trademarks, photographs, source documents, or other CPI Materials.
+
+6.4 A User must stop using the Covered Materials when the approval expires or is
+revoked, subject to section 12.
+
+## 7. Attribution and identification
+
+7.1 Where Written Approval is granted, Users must preserve applicable copyright,
+attribution, licensing, and ownership notices.
+
+7.2 Unless otherwise agreed in writing, attribution should identify:
+
+- **Maintainer:** healthbgd
+- **Organization:** cpintlORG
+- **Repository:** the relevant original repository and its URL.
+
+7.3 Attribution to the Maintainer must not be interpreted as a claim of
+ownership over third-party or institutional materials.
+
+7.4 Users must not falsely identify cpintlORG as the official GitHub
+organization of CPI or imply that the Maintainer acts as an authorized
+representative of CPI.
+
+## 8. Trademarks, names, logos, and institutional identity
+
+8.1 This License does not grant permission to use trademarks, trade names,
+service marks, institutional identities, official logos, or other protected
+branding belonging to CPI, CPINTL, YPSA, or any other third party.
+
+8.2 Such rights remain subject to the respective rights holders' policies and
+permissions.
+
+8.3 Nothing in this License authorizes Users to:
+
+- represent cpintlORG as an official CPI platform;
+- represent themselves as authorized representatives of cpintlORG or CPI;
+- claim institutional endorsement without written authorization; or
+- use protected third-party trademarks or logos without appropriate permission.
+
+## 9. Third-party materials and CPI materials
+
+9.1 Materials governed by separate licenses remain subject to those licenses.
+Examples include open-source software, third-party libraries, fonts and icon
+libraries, stock photographs and illustrations, official institutional
+publications, CPI-provided branding resources, contributor-owned materials, and
+other independently licensed content.
+
+9.2 Where an individual file or directory contains an explicit separate
+licensing notice, that notice governs the identified material to the extent of
+the rights granted by its lawful rights holder.
+
+9.3 This License does not cancel, replace, or override valid third-party
+licenses, and it does not grant any right in CPI Materials. CPI Materials remain
+the property of CPI or their respective rights holders.
+
+9.4 If this License conflicts with CPI's rights or a third party's rights, those
+rights prevail. Users are responsible for obtaining any permission those rights
+holders require.
+
+9.5 A public URL, public repository, or publicly accessible file is not evidence
+of a redistribution license.
+
+## 10. Contributions
+
+10.1 Contributors retain ownership of their original contributions unless they
+expressly agree otherwise in a separate written agreement.
+
+10.2 By submitting a contribution to a cpintlORG repository that uses this
+License, a contributor grants the Maintainer a perpetual, worldwide,
+non-exclusive, royalty-free, irrevocable, sublicensable license to use,
+reproduce, modify, adapt, distribute, and relicense the contribution as part of
+the Covered Materials, subject to this License and to any rights that CPI or a
+third party retains.
+
+10.3 A contributor must have the legal authority to submit the contribution and
+must identify any third-party restrictions or licensing conditions.
+
+10.4 Do not submit confidential information, personal data, CPI Materials you
+are not authorized to share, or third-party material without a recorded license.
+
+10.5 Unless a separate contributor agreement states otherwise, submission does
+not automatically transfer copyright ownership to the Maintainer.
+
+## 11. Restrictions
+
+Users must not:
+
+1. claim ownership of Covered Materials without lawful authority;
+2. remove or alter required attribution or licensing notices;
+3. redistribute Covered Materials without the required Written Approval;
+4. misrepresent the identity, status, ownership, or institutional affiliation
+   of cpintlORG;
+5. circumvent Written Approval conditions;
+6. use Covered Materials to imply endorsement or authorization by CPI or another
+   rights holder;
+7. grant sublicenses or permissions beyond those expressly granted by the
+   Maintainer;
+8. use Covered Materials in a manner that infringes the rights of the
+   Maintainer or another lawful rights holder; or
+9. use Covered Materials in a way that is unlawful, misleading, discriminatory,
+   or harmful to the communities CPI serves.
+
+## 12. Termination
+
+12.1 This License and any Written Approval terminate automatically if the User
+materially breaches any term. The Maintainer may also revoke a Written Approval
+in writing.
+
+12.2 On termination, the User must stop using the Covered Materials and delete or
+destroy copies under the User's control, except for copies that must be retained
+by law or by GitHub's standard platform operation.
+
+12.3 Termination does not extinguish rights or obligations that accrued before
+termination. Sections 2, 3, 4, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, and 18
+survive termination.
+
+12.4 Rights belonging to third-party owners remain unaffected by termination.
+
+## 13. No warranty
+
+COVERED MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE", TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW. THE MAINTAINER MAKES NO WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, COMPLETENESS, UNINTERRUPTED
+AVAILABILITY, OR SUITABILITY FOR ANY SPECIFIC USE.
+
+## 14. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE MAINTAINER AND cpintlORG
+WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, REPUTATION, REVENUE, OR OPPORTUNITY,
+ARISING FROM UNAUTHORIZED USE OF, INABILITY TO USE, OR RELIANCE UPON COVERED
+MATERIALS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Nothing in this section excludes liability that cannot lawfully be excluded.
+
+## 15. Governing law and jurisdiction
+
+15.1 This License is governed by the laws of the People's Republic of Bangladesh,
+without regard to conflict-of-law rules.
+
+15.2 The courts of Bangladesh have non-exclusive jurisdiction over disputes
+arising out of or relating to this License.
+
+15.3 Nothing in this License excludes mandatory legal protections or rights that
+cannot lawfully be waived in the User's jurisdiction.
+
+## 16. Amendments and versioning
+
+16.1 The Maintainer may publish revised versions of this License.
+
+16.2 A revised version does not automatically rewrite the terms of an existing
+Written Approval unless the parties expressly agree or applicable law provides
+otherwise.
+
+16.3 Each Written Approval should identify the applicable License version.
+
+16.4 The canonical text of this License is the root `LICENSE` file of the
+`cpintlORG/branding-kit` repository. Copies distributed with a skill or licence
+register are convenience copies; if they differ, the root `LICENSE` governs.
+
+## 17. Severability
+
+If any provision of this License is found invalid or unenforceable, the remaining
+provisions shall continue to apply to the extent permitted by applicable law.
+
+## 18. Entire agreement and interpretation
+
+18.1 This License describes the default permission conditions for Covered
+Materials.
+
+18.2 A separate written agreement signed or otherwise validly accepted by the
+relevant parties may establish different or additional terms for specifically
+identified materials.
+
+18.3 In the event of conflict, the applicable separate agreement or the lawful
+rights holder's license shall govern the materials to which it applies.
+
+18.4 This License is not legal advice. Its enforceability and scope depend on
+applicable law, ownership, authority, and the circumstances in which it is
+applied. Consult a qualified lawyer for legal questions.
+
+18.5 A failure to enforce a term of this License is not a waiver of that term or
+of any other term.
+
+## 19. Contact and permission requests
+
+19.1 Permission requests should be submitted in writing to the Maintainer:
+
+- **Maintainer email:** healthbgd@cpintl.org
+- **GitHub:** [healthbgd](https://github.com/healthbgd)
+
+19.1a Requests concerning CPI resources, CPI assets and CPI marks, and requests
+for an official CPI identity decision, must be submitted to the CPI authorized
+person at bgd.cpms@cpintl.org. A decision by one authority is not a decision by
+the other, and the Maintainer's approval is not CPI approval.
+
+19.2 A permission request should identify:
+
+- the User or requesting organization;
+- the specific repository and materials;
+- the intended purpose;
+- whether the proposed use is commercial or non-commercial;
+- the intended distribution and publication channels;
+- the requested duration and scope; and
+- whether CPI marks will appear in the final material.
+
+19.3 No permission is granted until Written Approval has been issued by the
+appropriate rights holder.
+
+---
+
+**END OF LICENSE**
+
+**License identifier:** `LicenseRef-cpintlORG-1.0`  
+**Status:** Custom license; not an SPDX-listed standard license.  
+**Version 1.0 — 2026-11-15.**
